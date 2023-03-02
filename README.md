@@ -1,2 +1,2 @@
 # Todo-List
-A Simple to do list app made with javascript
+A Simple to do list made with javascript
